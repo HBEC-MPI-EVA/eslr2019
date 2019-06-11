@@ -51,11 +51,11 @@ The default shell is usually Bash, but if your machine is set up differently you
 
 ## **Git** 
 
-Git is a version control system that lets you track changes to files and has options for easily updating a shared or public version of your code on (github.com)[https://github.com/]. You will need a supported web browser.
+Git is a version control system that lets you track changes to files and has options for easily updating a shared or public version of your code on [github.com](https://github.com/). You will need a supported web browser.
 
 We will be using this to develop skills on managing your files.
 
-You will need an account at (github.com)[https://github.com/] for parts of the Git lesson. Basic GitHub accounts are free. Create a GitHub account if you don't have one already. Please consider what personal information you'd like to reveal. For example, you may want to review these (instructions for keeping your email address private provided at GitHub)[https://help.github.com/en/articles/setting-your-commit-email-address-on-github].
+You will need an account at [github.com](https://github.com/) for parts of the Git lesson. Basic GitHub accounts are free. Create a GitHub account if you don't have one already. Please consider what personal information you'd like to reveal. For example, you may want to review these [instructions for keeping your email address private provided at GitHub](https://help.github.com/en/articles/setting-your-commit-email-address-on-github).
 
 <br/>
 
@@ -63,7 +63,7 @@ You will need an account at (github.com)[https://github.com/] for parts of the G
 
 [Video Tutorial](https://www.youtube.com/watch?v=9LQhwETCdwY)
 
-For OS X 10.9 and higher, install Git for Mac by downloading and running the most recent "mavericks" installer from this list. Because this installer is not signed by the developer, you may have to right click (control click) on the .pkg file, click Open, and click Open on the pop up window. After installing Git, there will not be anything in your `/Applications` folder, as Git is a command line program. For older versions of OS X (10.5-10.8) use the most recent available installer labelled "snow-leopard" (available here)[http://sourceforge.net/projects/git-osx-installer/files/].
+For OS X 10.9 and higher, install Git for Mac by downloading and running the most recent "mavericks" installer from this list. Because this installer is not signed by the developer, you may have to right click (control click) on the .pkg file, click Open, and click Open on the pop up window. After installing Git, there will not be anything in your `/Applications` folder, as Git is a command line program. For older versions of OS X (10.5-10.8) use the most recent available installer labelled "snow-leopard" available [here](http://sourceforge.net/projects/git-osx-installer/files/).
 
 <br/>
 
